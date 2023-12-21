@@ -1,2 +1,4 @@
-Implement Phone feature. Currently press a key is not applicable.
-Add Rules button.
+Implement Phone feature. Currently, press a key is not applicable.
+Add Rules/Instructions Menu.
+Capture Player Name.
+Show leaderboard.
