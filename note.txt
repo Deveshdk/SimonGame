@@ -1,0 +1,2 @@
+Implement Phone feature. Currently press a key is not applicable.
+Add Rules button.
